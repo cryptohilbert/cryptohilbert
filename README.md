@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Andrey+Chubara....;Noderunner;Validator;Web3+Expert;Business+manager;&center=true&size=30">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Andrey;Noderunner;Validator;Web3+Expert;Business+manager;&center=true&size=30">
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=ROHAN842.ROHAN842&style=flat-square&color=0088cc)
 
