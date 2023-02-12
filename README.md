@@ -82,32 +82,7 @@ We are experts in bringing insightful figures from data with an experience that 
 <a href="https://dashboard.heroku.com/apps" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
 <a href="https://www.netlify.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/> </a>
 <a href="https://dart.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-
-
-    
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/ROHAN842/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=ROHAN842&theme=react&border=61dafb&hide_border=true" alt="ROHAN842" />
-    </a>
-    <a href="https://github.com/ROHAN842/github-readme-stats" title="Go to Source">
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=ROHAN842&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/ROHAN842/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROHAN842&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=ROHAN842&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
-
-<hr>
+   
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
