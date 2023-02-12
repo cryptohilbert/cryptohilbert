@@ -40,13 +40,13 @@
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working on SocialCrypto - a crowdfunding platform with a vision to create social impact, which allows people to donate funds via cryptocurrency.
-- 📚 &nbsp; I’m currently learning Flutter.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ROHAN842).
-- 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/rohanmodi-79647819a/)! I am happy to help.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 &nbsp; How to reach me: rohanmodi790@gmail.com
-- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1ZmRmTQWomzGH92DAr1yn_px6SoYgl6Yk/view?usp=sharing).
+🛠 &nbsp; I’m currently working on <a href="https://www.upwork.com/ag/businessintelligence/"> Power Intelligence - Top Rated Agency on Upwork.</a> 
+
+Power Intelligence provides various solutions used to amass insights from different types of data. We drive business decisions and use business intelligence. This is accomplished by utilizing different techniques to understand live, historical, and predictive data.
+
+Organizing data into insight can be tedious and depressing for you. However, the insight gotten from our Agency at the end can make your business a fortune.
+
+We are experts in bringing insightful figures from data with an experience that spans several industries (Finance, Manufacturing, E-commerce, Digital Marketing, and others), and we'll be glad to help you.
 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
