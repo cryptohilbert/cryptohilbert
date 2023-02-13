@@ -94,12 +94,10 @@ We are experts in bringing insightful figures from data with an experience that 
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rohanmodi-79647819a/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/RohanMo27620512)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/rohanmodi96/)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/rohan.modi.718)
-[![Website Badge](https://img.shields.io/badge/Website-0088cc?style=flat-square&logo=google-chrome&logoColor=white)](https://rohanmodi.netlify.app/)
-[![Quora Badge](https://img.shields.io/badge/-Quora-b92b27?style=flat-square&logo=Quora&logoColor=white)](https://www.quora.com/profile/Rohan-Modi-55/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)]()
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)]()
+[![Website Badge](https://img.shields.io/badge/Website-0088cc?style=flat-square&logo=google-chrome&logoColor=white)]()
+[![Quora Badge](https://img.shields.io/badge/-Quora-b92b27?style=flat-square&logo=Quora&logoColor=white)]()
 
 
 
