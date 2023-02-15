@@ -6,27 +6,21 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- 🎓 Transaction validation: The node operator helps to validate transactions by verifying that the inputs of a transaction are unspent and that the transaction is valid according to the cryptocurrency's consensus rules.
+ 🎓 Transaction validation: help to validate transactions by verifying that the inputs of a transaction are unspent and that the transaction is valid according to the cryptocurrency's consensus rules.
 
-- 🎮 Block propagation: Nodes help to propagate new blocks to other nodes in the network. This helps to ensure that all nodes have a consistent view of the blockchain.
+ ⚛️ Network participation: Running a node is one way to actively participate in the network and help to maintain its decentralized structure. By participating in the network, node operators help to prevent any one entity from having too much control over the network.
 
-- ⚛️ Network participation: Running a node is one way to actively participate in the network and help to maintain its decentralized structure. By participating in the network, node operators help to prevent any one entity from having too much control over the network.
+ 🚀 Block production: In some cryptocurrencies, nodes can also contribute to the production of new blocks. For example, in proof-of-stake (PoS) systems, nodes may be chosen to validate transactions and produce new blocks.
+ 
+ 🎯 Security: Running a node can also help to improve the security of the network by providing an additional point of validation for transactions and blocks.
 
-- 🚀 Block production: In some cryptocurrencies, nodes can also contribute to the production of new blocks. For example, in proof-of-stake (PoS) systems, nodes may be chosen to validate transactions and produce new blocks.
-- 
-  🎯 Security: Running a node can also help to improve the security of the network by providing an additional point of validation for transactions and blocks.
+ ❤️ I love to write reviews on various software related products, new technologies, cloud services etc.
 
-- ❤️ I love to write reviews on various software related products, new technologies, cloud services etc.
+ 💥 2023 Goals: Manage and develop own dApp.
 
-- 💥 2023 Goals: Explore and learn how real world software works with new tech stacks.
+ 📌 I like to explore new and innovative things and then try to import those learnings in my work such that it can be easily used by the whole community.
 
-- 📌 I like to explore new and innovative things and then try to import those learnings in my work such that it can be easily used by the whole community.
-
-- 🎯 Problem Solving :- Data Structures & Algorithms through C++
-
-- 💻 Web Development Bucket :-
-
-- 💥 Front End :- HTML5, CSS3, Javascript, Bootstrap4 and React.js
+ 🎯 Problem Solving : Data Structures & Algorithms
 
 <img align="right" height="250" width="375" alt="" src="https://github.com/megamozg2022/megamozg2022/blob/main/PI.png" />
 
